@@ -1,0 +1,16 @@
+F:\Repos\FactoryPatternExercise\bin\Debug\net5.0\FactoryPatternExercise.exe
+F:\Repos\FactoryPatternExercise\bin\Debug\net5.0\FactoryPatternExercise.deps.json
+F:\Repos\FactoryPatternExercise\bin\Debug\net5.0\FactoryPatternExercise.runtimeconfig.json
+F:\Repos\FactoryPatternExercise\bin\Debug\net5.0\FactoryPatternExercise.runtimeconfig.dev.json
+F:\Repos\FactoryPatternExercise\bin\Debug\net5.0\FactoryPatternExercise.dll
+F:\Repos\FactoryPatternExercise\bin\Debug\net5.0\FactoryPatternExercise.pdb
+F:\Repos\FactoryPatternExercise\obj\Debug\net5.0\FactoryPatternExercise.csproj.AssemblyReference.cache
+F:\Repos\FactoryPatternExercise\obj\Debug\net5.0\FactoryPatternExercise.GeneratedMSBuildEditorConfig.editorconfig
+F:\Repos\FactoryPatternExercise\obj\Debug\net5.0\FactoryPatternExercise.AssemblyInfoInputs.cache
+F:\Repos\FactoryPatternExercise\obj\Debug\net5.0\FactoryPatternExercise.AssemblyInfo.cs
+F:\Repos\FactoryPatternExercise\obj\Debug\net5.0\FactoryPatternExercise.csproj.CoreCompileInputs.cache
+F:\Repos\FactoryPatternExercise\obj\Debug\net5.0\FactoryPatternExercise.dll
+F:\Repos\FactoryPatternExercise\obj\Debug\net5.0\refint\FactoryPatternExercise.dll
+F:\Repos\FactoryPatternExercise\obj\Debug\net5.0\FactoryPatternExercise.pdb
+F:\Repos\FactoryPatternExercise\obj\Debug\net5.0\FactoryPatternExercise.genruntimeconfig.cache
+F:\Repos\FactoryPatternExercise\obj\Debug\net5.0\ref\FactoryPatternExercise.dll
